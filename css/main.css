@@ -1,0 +1,198 @@
+body{
+	background:#D7D7D7;
+	font-size:14px;
+	font-family:Arial, helvetica, sans-serif;
+}
+
+p{
+	font-size:1em;
+	
+}
+h1{
+	font-size:2.5em;
+	font-weight:bold;
+}
+
+h3{
+	font-size:16px;
+	color: #0300a3;
+}
+
+div.main-wrapper{
+	width:1000px;
+	height:100%;
+	background:#FFFFFF;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
+div.title{
+	background-color:#FFFFFF;
+	color:#000000;
+	width:100%;
+	text-align:center;
+	padding-top:10px;
+	padding-bottom:10px;
+	border-bottom:2px solid #BCBCBC;
+}
+div.content-wrapper{
+	min-height:600px;
+	width:100%;
+	vertical-align:top;
+}
+div.right-col{
+	width:725px;
+	padding:20px;
+	height:100%;
+	display:inline-block;
+	vertical-align:top;
+}
+div.left-col{
+	border-right:2px solid #BCBCBC;
+	width:175px;
+	padding:15px;
+	height:100%;
+	display:inline-block;
+	min-height:600px;
+}
+div.sideNav ul{
+	list-style-type:none;
+	margin-left:-27px;
+}
+div.sideNav ul li ul{
+	list-style-type:none;
+	margin-left:-20px;
+}
+div.sideNav
+{
+    width: 180px;
+    overflow-x: hidden;
+}
+div.sideNav a{
+	color:#54565B;
+	text-decoration:none;
+}
+div.sideNav a:hover
+{
+    text-decoration: none !important;
+}
+
+div.sideNav div.sidenavHeader a
+{
+	color: #493F38;
+	font-family: Arial;
+	font-size: 0.813em;
+	line-height: 1.5em;
+	font-weight: bold;
+	left: 5px;
+	position: relative;
+}
+
+div.sideNav a:visited
+{
+    color: #493F38;
+}
+
+div.sideNav div.sideNavBar
+{
+    background-image: url('http://bus.wisc.edu/_images/template/global/sideNavBar2.png');
+    height: 2px;
+    width: 200px;
+}
+
+div.sideNav ul.sidenav
+{
+    font-family: Arial;
+    font-size:	0.875em;
+    line-height: 1.563em;
+    font-weight: bold;
+	display:block;
+}
+div.sideNav ul.sidenav ul
+{
+	display:none;
+}
+
+div.sideNav ul.sidenav a
+{
+    color: #493F38;
+    text-decoration: none;
+    margin: 1px 1px 1px 1px;
+    padding: 2px 0px 2px 2px;
+    display: inline-block;
+    width: 100%;
+}
+div.sideNav ul.sidenav a:hover{
+	background-color:#9F998F;
+	color:#fff;
+}
+
+
+div.sideNav ul.sidenav li
+{
+    list-style-type: none; /*margin-top: 3px;     /*asdf*/
+    position: relative;
+    margin: 1px 0px 1px 0px;
+}
+
+div.sideNav ul.sidenav li.active-top ul{
+	display:block;
+}
+
+
+.indexContentTable
+{
+	margin-top: 8px;
+}
+
+.tdSpacer
+{
+	width: 60px;
+}
+
+.bookCover
+{
+	border: 5px double #C20430;
+}
+
+.welcome
+{
+	font-size: 18px;
+}
+
+.homePageText
+{
+	font-size: 16px;
+	font-family:Arial, helvetica, sans-serif;
+}
+
+table.chapterTable
+{
+	font-family: Tahoma, Geneva, sans-serif;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.chapterTableHeaderRow
+{
+	background-color: #8A2432;
+	color: white;
+	font-size: 14px;
+	height: 15px;
+}
+table.chapterTable tr td{
+	padding:5px;
+	min-width:120px;
+}
+
+ul{margin-top:2px;}
+
+
+
+table.chapterTable tr.alternateRow
+{
+	background-color: #E3E3E3;
+}
+
+li { padding: 2px 0px; }
