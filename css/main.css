@@ -97,14 +97,9 @@ a:hover {
 }
 
 .profile-role,
-.profile-affiliation,
-.profile-focus {
+.profile-affiliation {
     margin: 3px 0;
     font-size: 17px;
-}
-
-.profile-focus {
-    color: var(--muted);
 }
 
 .profile-links {
