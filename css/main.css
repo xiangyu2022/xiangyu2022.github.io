@@ -167,13 +167,6 @@ a:hover {
     background-size: 18px 18px, 18px 18px, auto;
 }
 
-.thumb-diff {
-    background:
-        radial-gradient(circle at 30% 40%, rgba(255, 255, 255, 0.34), transparent 28%),
-        radial-gradient(circle at 74% 58%, rgba(255, 255, 255, 0.25), transparent 32%),
-        linear-gradient(135deg, #583c87, #c36f85);
-}
-
 .thumb-star {
     background:
         radial-gradient(circle at 50% 45%, #fff 0 4px, #ffd66d 5px, transparent 12px),
